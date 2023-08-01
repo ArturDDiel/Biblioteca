@@ -1,4 +1,4 @@
-# Titulo
+# Biblioteca
 
 Uma biblioteca que facilita a tarefa de verificar a disponibilidade de links em arquivos de diretórios. Com essa biblioteca, você pode garantir que os links presentes nos seus arquivos ainda estejam ativos, economizando tempo e evitando conteúdo desatualizado.
 
