@@ -6,4 +6,4 @@ Uma biblioteca que facilita a tarefa de verificar a disponibilidade de links em 
 
 # 🛠️ Abrir e rodar o projeto
 
-No console execute o comando **cli:valida diretório**, e ele verificará os arquivos.md
+No console execute o comando **cli:valida <diretório>**, e ele verificará os arquivos.md
